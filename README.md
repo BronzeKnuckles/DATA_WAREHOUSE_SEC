@@ -1,1 +1,18 @@
 # DATA_WAREHOUSE_SEC
+
+
+### **Executive Summary**
+This project aims to address the challenge of extracting, cleaning, and analyzing financial form submissions from the SEC's website. These forms hold rich financial data, under-utilized due to the complexity of handling it. By leveraging Google Big-Query's capabilities, we propose developing a data warehouse solution to efficiently organize and analyze this data, enabling better decision-making for stakeholders in the financial sector.
+
+---
+
+### **Detailed List of Deliverables**	
+1.	 A fully functional data pipeline of SEC.gov public dataset into Big-Query.
+2.	Data Warehouse deliverables:
+    -   A transformed, custom tables and views suitable for analysis.
+    -   Implementation of custom procedures and views for quick and robust access of relevant data.
+3.	Document Deliverables:
+    -   Quick access guide
+    -   Documentation of system and query usage.
+
+---
