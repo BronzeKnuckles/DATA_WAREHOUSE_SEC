@@ -1,7 +1,7 @@
-# DATA_WAREHOUSE_SEC
 
-### **Project:** Building and Implementing a Robust Data Warehouse of SEC Public Dataset on BigQuery
----
+
+# **Building and Implementing a Robust Data Warehouse of SEC Public Dataset on BigQuery**
+
 ### **Executive Summary**
 This project aims to address the challenge of extracting, cleaning, and analyzing financial form submissions from the SEC's website. These forms hold rich financial data, under-utilized due to the complexity of handling it. By leveraging Google Big-Query's capabilities, we propose developing a data warehouse solution to efficiently organize and analyze this data, enabling better decision-making for stakeholders in the financial sector.
 
