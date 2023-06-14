@@ -39,7 +39,6 @@
 ---
 ## WBS Dictionay
 
-# WBS Dictionary
 
 ### 1. Initiation
 - 1.1. Project scope: Define the project boundaries, deliverables, and all necessary requirements.
