@@ -8,11 +8,10 @@ This project aims to address the challenge of extracting, cleaning, and analyzin
 
 ---
 ### **Project Deliverables:**	
-1.	 A fully functional data pipeline of SEC.gov public dataset into Big-Query.
-2.	Data Warehouse deliverables:
-    -   A transformed, custom tables and views suitable for analysis.
-    -   Implementation of custom procedures and views for quick and robust access of relevant data.
-3.	Document Deliverables:
+1.	A fully functional data pipeline of SEC.gov public dataset into Big-Query.
+2.	A transformed, custom tables and views suitable for analysis.
+3.  Implementation of custom procedures and views for quick and robust access of relevant data.
+4.	Documents:
     -   Quick access guide
     -   Documentation of system and query usage.
 
