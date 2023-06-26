@@ -17,4 +17,4 @@ This project aims to address the challenge of extracting, cleaning, and analyzin
 
 ---
 
-![Vision and Mission](https://github.com/BronzeKnuckles/DATA_WAREHOUSE_SEC/blob/main/docs/images/Vision_Mission.png?raw=true)
+![Vision and Mission](https://github.com/BronzeKnuckles/DATA_WAREHOUSE_SEC/blob/main/docs/images/Vission_Mission2.png?raw=true)
