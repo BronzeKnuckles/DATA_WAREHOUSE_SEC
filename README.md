@@ -15,3 +15,6 @@ This project aims to address the challenge of extracting, cleaning, and analyzin
     -   Quick access guide
     -   Documentation of system and query usage.
 
+---
+
+![Vision and Mission](https://github.com/BronzeKnuckles/DATA_WAREHOUSE_SEC/blob/main/docs/images/Vision_Mission.png?raw=true)
