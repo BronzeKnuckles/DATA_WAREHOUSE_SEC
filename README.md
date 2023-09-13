@@ -18,3 +18,9 @@ This project aims to address the challenge of extracting, cleaning, and analyzin
 ---
 
 ![Vision and Mission](https://github.com/BronzeKnuckles/DATA_WAREHOUSE_SEC/blob/main/docs/images/Vission_Mission2.png?raw=true)
+
+### **Data Model:**
+![Data Model](https://github.com/BronzeKnuckles/DATA_WAREHOUSE_SEC/blob/main/docs/images/DataModel.png?raw=true)
+---
+### **Big Query Screen Shot:**
+![Big Query Screen Shot](https://github.com/BronzeKnuckles/DATA_WAREHOUSE_SEC/blob/main/docs/images/BigQuery_Screen_Shot1.png?raw=true)
